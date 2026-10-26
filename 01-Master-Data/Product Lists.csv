@@ -1,0 +1,447 @@
+Product,Plant,Product Type,Product Group,Base Unit of Measure,MRP Type,Valuation Class,Price Control,Inventory Price,Price Unit
+"CP-FG2, Ink Bottled,15 ml (FG2_CP)",Plant 1 US (1710),Finished Product (FERT),Finished Goods (L004),Bottle (BT),PD,7920,S,0.88     USD,1
+"FIN29,MTS-PI,PD,Batch-ExpirationDate (FG29)",Plant 1 US (1710),Finished Product (FERT),Finished Goods (L004),Bottle (BT),PD,7920,S,0.88     USD,1
+"CP-RM8, Bottle (RM8_CP)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Bottle (BT),VB,3000,S,0.01     USD,1
+"CP-SG2, Ink Bottled (SG2_CP)",Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Cubic centimeter (CCM),PD,7900,S,0.17     USD,1
+"SEMI24,PD,Batch-Fifo (SG24)",Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Cubic centimeter (CCM),PD,7900,S,0.17     USD,1
+Centrifugal Pump (SG-CFP),Plant 1 US (1710),Semifinished Product (HALB),,each (EA),,,,0.000         ,0
+Adapter (SG-CFP-ADAPTER),Plant 1 US (1710),Semifinished Product (HALB),,each (EA),,,,0.000         ,0
+Ball Bearing (SG-CFP-B-BRNG),Plant 1 US (1710),Semifinished Product (HALB),,each (EA),,,,0.000         ,0
+Bearing Bracket (SG-CFP-BRNG-BRKT),Plant 1 US (1710),Semifinished Product (HALB),,each (EA),,,,0.000         ,0
+Connector (SG-CFP-CON),Plant 1 US (1710),Semifinished Product (HALB),,each (EA),,,,0.000         ,0
+Connector Back (SG-CFP-CON_BK),Plant 1 US (1710),Semifinished Product (HALB),,each (EA),,,,0.000         ,0
+Connector Box Cover (SG-CFP-CON_BX_CVR),Plant 1 US (1710),Semifinished Product (HALB),,each (EA),,,,0.000         ,0
+Coupler (SG-CFP-COUPLER),Plant 1 US (1710),Semifinished Product (HALB),,each (EA),,,,0.000         ,0
+Flow Sensor (SG-CFP-F-SENSOR),Plant 1 US (1710),Semifinished Product (HALB),,each (EA),,,,0.000         ,0
+Harness (SG-CFP-HARNESS),Plant 1 US (1710),Semifinished Product (HALB),,each (EA),,,,0.000         ,0
+Pump housing (SG-CFP-HOUSING),Plant 1 US (1710),Semifinished Product (HALB),,each (EA),,,,0.000         ,0
+Impeller (SG-CFP-IMPELLER),Plant 1 US (1710),Semifinished Product (HALB),,each (EA),,,,0.000         ,0
+Inboard Cover (SG-CFP-INBRD_CVR),Plant 1 US (1710),Semifinished Product (HALB),,each (EA),,,,0.000         ,0
+Seal (SG-CFP-SEAL),Plant 1 US (1710),Semifinished Product (HALB),,each (EA),,,,0.000         ,0
+Shaft (SG-CFP-SHAFT),Plant 1 US (1710),Semifinished Product (HALB),,each (EA),,,,0.000         ,0
+Vibration Sensor (SG-CFP-V-SENSOR),Plant 1 US (1710),Semifinished Product (HALB),,each (EA),,,,0.000         ,0
+Service Expense (SRV_02),Plant 1 US (1710),Service Product (SERV),Expenses (P002),each (EA),,,,0.000         ,0
+Service Bundle 01 (SRV_BUNDLE_01),Plant 1 US (1710),Service Product (SERV),Services (P001),each (EA),,,,0.000         ,0
+Service Bundle (SRV_BUNDLE_02),Plant 1 US (1710),Service Product (SERV),Services (P001),each (EA),,,,0.000         ,0
+Service Part (Undefined) (SRV_03),Plant 1 US (1710),Non-Stock Material (NLAG),Non-Sto Mat. w.o ID (YBMM00),each (EA),,YB01,S,0.00     USD,1
+Service Part (Defined) (SRV_04),Plant 1 US (1710),Non-Stock Material (NLAG),Non-Sto Mat. w.o ID (YBMM00),each (EA),,YB01,S,0.00     USD,1
+Service Material 01 (SM0001),Plant 1 US (1710),Service Product (SERV),Non-Sto Mat. w. ID (YBMM01),Hours (H),,3200,S,20.00     USD,1
+IFRS Service Material 01 (SMIF01),Plant 1 US (1710),Service Product (SERV),Non-Sto Mat. w. ID (YBMM01),Hours (H),,3200,S,20.00     USD,1
+Junior Consultant (T001),Plant 1 US (1710),Service Product (SERV),Services (P001),Hours (H),,3200,S,1.00     USD,1
+Senior Consultant (T002),Plant 1 US (1710),Service Product (SERV),Services (P001),Hours (H),,3200,S,1.00     USD,1
+Time Recording: Rate Type 03 (T003),Plant 1 US (1710),Service Product (SERV),Services (P001),Hours (H),,3200,S,1.00     USD,1
+Time Recording: Rate Type 04 (T004),Plant 1 US (1710),Service Product (SERV),Services (P001),Hours (H),,3200,S,1.00     USD,1
+Time Recording: Rate Type 05 (T005),Plant 1 US (1710),Service Product (SERV),Services (P001),Hours (H),,3200,S,1.00     USD,1
+Time Recording: Rate Type 06 (T006),Plant 1 US (1710),Service Product (SERV),Services (P001),Hours (H),,3200,S,1.00     USD,1
+Time Recording: Rate Type 07 (T007),Plant 1 US (1710),Service Product (SERV),Services (P001),Hours (H),,3200,S,1.00     USD,1
+Time Recording: Rate Type 08 (T008),Plant 1 US (1710),Service Product (SERV),Services (P001),Hours (H),,3200,S,1.00     USD,1
+Time Recording: Rate Type 09 (T009),Plant 1 US (1710),Service Product (SERV),Services (P001),Hours (H),,3200,S,1.00     USD,1
+Time Recording: Rate Type 10 (T010),Plant 1 US (1710),Service Product (SERV),Services (P001),Hours (H),,3200,S,1.00     USD,1
+Time Recording: Rate Type 11 (T011),Plant 1 US (1710),Service Product (SERV),Services (P001),Hours (H),,3200,S,1.00     USD,1
+Time Recording: Rate Type 12 (T012),Plant 1 US (1710),Service Product (SERV),Services (P001),Hours (H),,3200,S,1.00     USD,1
+Time Recording: Rate Type 13 (T013),Plant 1 US (1710),Service Product (SERV),Services (P001),Hours (H),,3200,S,1.00     USD,1
+Time Recording: Rate Type 14 (T014),Plant 1 US (1710),Service Product (SERV),Services (P001),Hours (H),,3200,S,1.00     USD,1
+Time Recording: Rate Type 15 (T015),Plant 1 US (1710),Service Product (SERV),Services (P001),Hours (H),,3200,S,1.00     USD,1
+Time Recording: Rate Type 16 (T016),Plant 1 US (1710),Service Product (SERV),Services (P001),Hours (H),,3200,S,1.00     USD,1
+Time Recording: Rate Type 17 (T017),Plant 1 US (1710),Service Product (SERV),Services (P001),Hours (H),,3200,S,1.00     USD,1
+Time Recording: Rate Type 18 (T018),Plant 1 US (1710),Service Product (SERV),Services (P001),Hours (H),,3200,S,1.00     USD,1
+Time Recording: Rate Type 19 (T019),Plant 1 US (1710),Service Product (SERV),Services (P001),Hours (H),,3200,S,1.00     USD,1
+Time Recording: Rate Type 20 (T020),Plant 1 US (1710),Service Product (SERV),Services (P001),Hours (H),,3200,S,1.00     USD,1
+Miscellaneous Services (T999),Plant 1 US (1710),Service Product (SERV),Services (P001),Hours (H),,3200,S,1.00     USD,1
+"FIN29-1,MTS-PI, with Silo Material (FG29-1)",Plant 1 US (1710),Finished Product (FERT),Finished Goods (L004),Kilogram (KG),PD,7920,S,3.40     USD,1
+"FIN6200, MTO-PI, PD, Batch (FG6200)",Plant 1 US (1710),Finished Product (FERT),Finished Goods (L004),Kilogram (KG),PD,7920,S,6.28     USD,1
+"FIN6500, PI, PD, Tank Trailer Material (FG6500)",Plant 1 US (1710),Finished Product (FERT),Finished Goods (L004),Kilogram (KG),PD,7920,S,3.21     USD,1
+QM PRODUCTION BATCH (QM006),Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Kilogram (KG),PD,7900,S,0.88     USD,1
+"RAW09,PD,Batch-Fifo (RM09)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Kilogram (KG),PD,3000,S,0.08     USD,1
+"RM1430, PD, Catalyst (RM1430)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Kilogram (KG),PD,3000,S,1.00     USD,1
+"RAW28,PD,PackagingFoil (RM28)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Kilogram (KG),PD,3000,S,2.25     USD,1
+"CP-RM5, Varnish (RM5_CP)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Kilogram (KG),PD,3000,S,0.08     USD,1
+"CP-RM6, Pigment (RM6_CP)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Kilogram (KG),PD,3000,S,0.12     USD,1
+Input 1 (WATER) (RMPI001),Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Kilogram (KG),PD,3000,S,0.08     USD,1
+Input 2 (AGENT 2). (RMPI002),Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Kilogram (KG),PD,3000,S,1.00     USD,1
+Input 3 (AGENT 3) (RMPI003),Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Kilogram (KG),PD,3000,S,1.25     USD,1
+Input 4 (Agent 4) (RMPI004),Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Kilogram (KG),PD,3000,S,0.75     USD,1
+Input X (Orange Color) (RMPI006),Plant 1 US (1710),Raw materials (ROH),,Kilogram (KG),PD,3000,S,1.65     USD,1
+Input 7 (Agent 7) (RMPI007),Plant 1 US (1710),Raw materials (ROH),,Kilogram (KG),PD,3000,S,0.50     USD,1
+"SEMI2200,MTS-PI,PD,with Co- & By-Product (SG2200)",Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Kilogram (KG),PD,7900,S,18.65     USD,1
+"SEMI6100, PI, PD, Batch (SG6100)",Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Kilogram (KG),PD,7900,S,2.37     USD,1
+"SEMI7100, PD, By-Product (SG7100)",Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Kilogram (KG),PD,7900,S,0.02     USD,1
+OUTPUT 1 (SGPI001),Plant 1 US (1710),Semifinished Product (HALB),,Kilogram (KG),PD,7900,S,0.52     USD,1
+OUTPUT 1 (SGPI001-V00),Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Kilogram (KG),PD,7900,S,0.52     USD,1
+OUTPUT 2 (SGPI002),Plant 1 US (1710),Semifinished Product (HALB),,Kilogram (KG),PD,7900,S,1.50     USD,1
+OUTPUT 3 (SGPI003),Plant 1 US (1710),Semifinished Product (HALB),,Kilogram (KG),PD,7900,S,2.70     USD,1
+Input 5 (Blue Color) (RMPI005),Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Kilogram (KG),VB,3000,S,0.35     USD,1
+"RM1420, PD, Solvent (RM1420)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Liter (L),PD,3000,S,0.08     USD,1
+"RAW19,PD,Batch-Fifo,LeanQM (RM19)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Liter (L),PD,3000,S,0.12     USD,1
+"SEMI1010, PD, Silo material with batch (SG1010)",Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Liter (L),PD,7900,S,1.50     USD,1
+"SEMI8100, PD, Co-Product, FIX Price (SG8100)",Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Liter (L),PD,7900,S,1.50     USD,1
+"SEMI9100, PD, Co-Product (SG9100)",Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Liter (L),PD,7900,S,1.50     USD,1
+"RAW30,VB,Batch-Fifo (RM30)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Liter (L),VB,3000,S,0.01     USD,1
+Pipeline Material 01 (PIP01),Plant 1 US (1710),Pipeline Materials (PIPE),Raw Materials (L002),Liter (L),,3000,V,12.00     USD,1
+On account to be billed (A001),Plant 1 US (1710),Service Product (SERV),On Account Billed (A001),Activity unit (AU),,,,0.000         ,0
+On account to be utilized (A002),Plant 1 US (1710),Service Product (SERV),On Account Utilized (A002),Activity unit (AU),,,,0.000         ,0
+One Time Credit (B001),Plant 1 US (1710),Service Product (SERV),One Time Credit (B001),Activity unit (AU),,,,0.000         ,0
+Cloud Revenue (B002),Plant 1 US (1710),Service Product (SERV),Cloud Revenue (B002),Activity unit (AU),,,,0.000         ,0
+Copy Over (B003),Plant 1 US (1710),Service Product (SERV),,Activity unit (AU),,,,0.000         ,0
+Free Form Item (B004),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Split Header (B005),Plant 1 US (1710),Service Product (SERV),,Activity unit (AU),,,,0.000         ,0
+Split Item (B006),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Subtotal (B007),Plant 1 US (1710),Service Product (SERV),,Activity unit (AU),,,,0.000         ,0
+Accommodation (E001),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Airfare (E002),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Ground Transportation (E003),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Miscellaneous (E004),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 05 (E005),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 06 (E006),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 07 (E007),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 08 (E008),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 09 (E009),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 10 (E010),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 11 (E011),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 12 (E012),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 13 (E013),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 14 (E014),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 15 (E015),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 16 (E016),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 17 (E017),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 18 (E018),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 19 (E019),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 20 (E020),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 21 (E021),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 22 (E022),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 23 (E023),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 24 (E024),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 25 (E025),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 26 (E026),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 27 (E027),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 28 (E028),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 29 (E029),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 30 (E030),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 31 (E031),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 32 (E032),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 33 (E033),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 34 (E034),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 35 (E035),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 36 (E036),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 37 (E037),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 38 (E038),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 39 (E039),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+Billable Expenses 40 (E040),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,,,0.000         ,0
+License 001 (L001),Plant 1 US (1710),Service Product (SERV),Licenses (L007),Activity unit (AU),,,,0.000         ,0
+Project-Based Service: Fixed Price (P001),Plant 1 US (1710),Service Product (SERV),Contract Type (P000),Activity unit (AU),,,,0.000         ,0
+Project-Based Service: Time & Expenses (P002),Plant 1 US (1710),Service Product (SERV),Contract Type (P000),Activity unit (AU),,,,0.000         ,0
+Periodic Service (P003),Plant 1 US (1710),Service Product (SERV),Periodic Service (P003),Activity unit (AU),,,,0.000         ,0
+Private Cloud Support & Maintenance (PC_SUPP_1),Plant 1 US (1710),Service Product (SERV),Services (P001),Activity unit (AU),,,,0.000         ,0
+PBS: Fixed Price-Bundling 1 (PIF1),Plant 1 US (1710),Service Product (SERV),Contract Type (P000),Activity unit (AU),,,,0.000         ,0
+PBS-Periodic Service-Bundling 2 (PIF3),Plant 1 US (1710),Service Product (SERV),Periodic Service (P003),Activity unit (AU),,,,0.000         ,0
+Project Item (PROJECT),Plant 1 US (1710),Service Product (SERV),Services (P001),Activity unit (AU),,,,0.000         ,0
+Service Contract Product (SRV_CONTRACT),Plant 1 US (1710),Service Product (SERV),Services (P001),Activity unit (AU),,,,0.000         ,0
+Service Ctr Prod Renewal (SRV_CTR_RENEWAL),Plant 1 US (1710),Service Product (SERV),Services (P001),Activity unit (AU),,,,0.000         ,0
+Service (Contractor) (S001),Plant 1 US (1710),Service Product (SERV),Expenses (P002),Activity unit (AU),,3300,S,1.00     USD,1
+CARTON for GTL (PMCARTON_GTL),,Packaging (VERP),,Piece (PC),,,,0.000         ,0
+PALLET for GTL (PMPALLET_GTL),,Packaging (VERP),,Piece (PC),,,,0.000         ,0
+WIRE BASKET for GTL (PMWIREBASKET_GTL),,Packaging (VERP),,Piece (PC),,,,0.000         ,0
+"Trading Good 0015,PD,Regular Proc. (TG0015)",,Material general (MAT),Trading Materials (L001),Piece (PC),,,,0.000         ,0
+Hardware 001 (H001),Plant 1 US (1710),Material general (MAT),Trading Materials (L001),Piece (PC),,,,0.000         ,0
+Hardware 002 (H002),Plant 1 US (1710),Material general (MAT),Trading Materials (L001),Piece (PC),,,,0.000         ,0
+Screw (NL001),Plant 1 US (1710),Non-Stock Material (NLAG),Non-Sto Mat. w. ID (YBMM01),Piece (PC),,,,0.000         ,0
+CARTON (PMCARTON),Plant 1 US (1710),Packaging (VERP),,Piece (PC),,,,0.000         ,0
+PALLET (PMPALLET),Plant 1 US (1710),Packaging (VERP),,Piece (PC),,,,0.000         ,0
+WIRE BASKET (PMWIREBASKET),Plant 1 US (1710),Packaging (VERP),,Piece (PC),,,,0.000         ,0
+Returnable Non-valuated Product (RP002),Plant 1 US (1710),Returnable packaging (LEIH),Finished Goods (L004),Piece (PC),,,,0.000         ,0
+Service product with BOM 10_01 (SRV_BOM_10_01),Plant 1 US (1710),Service Product (SERV),Services (P001),Piece (PC),,,,0.000         ,0
+Service product with BOM 11_01 (SRV_BOM_11_01),Plant 1 US (1710),Service Product (SERV),Services (P001),Piece (PC),,,,0.000         ,0
+Service product with BOM 11_02 (SRV_BOM_11_02),Plant 1 US (1710),Service Product (SERV),Services (P001),Piece (PC),,,,0.000         ,0
+Service product with BOM 12_01 (SRV_BOM_12_01),Plant 1 US (1710),Service Product (SERV),Services (P001),Piece (PC),,,,0.000         ,0
+Non-Stock Material 02 (NS0002),Plant 1 US (1710),Non-Stock Material (NLAG),Non-Sto Mat. w. ID (YBMM01),Piece (PC),,YB01,S,50.00     USD,1
+Cloud Sales Licences (U001),Plant 1 US (1710),Service Product (SERV),Periodic Service (P003),Piece (PC),,3200,S,1.00     USD,1
+Service Center Tickets (U002),Plant 1 US (1710),Service Product (SERV),Periodic Service (P003),Piece (PC),,3200,S,1.00     USD,1
+Incidents Monitoring (U003),Plant 1 US (1710),Service Product (SERV),Periodic Service (P003),Piece (PC),,3200,S,1.00     USD,1
+Incidents Monitoring (U004),Plant 1 US (1710),Service Product (SERV),Periodic Service (P003),Piece (PC),,3200,S,1.00     USD,1
+Incidents Monitoring (U005),Plant 1 US (1710),Service Product (SERV),Periodic Service (P003),Piece (PC),,3200,S,1.00     USD,1
+Incidents Monitoring (U006),Plant 1 US (1710),Service Product (SERV),Periodic Service (P003),Piece (PC),,3200,S,1.00     USD,1
+Incidents Monitoring (U007),Plant 1 US (1710),Service Product (SERV),Periodic Service (P003),Piece (PC),,3200,S,1.00     USD,1
+Incidents Monitoring (U008),Plant 1 US (1710),Service Product (SERV),Periodic Service (P003),Piece (PC),,3200,S,1.00     USD,1
+Incidents Monitoring (U009),Plant 1 US (1710),Service Product (SERV),Periodic Service (P003),Piece (PC),,3200,S,1.00     USD,1
+Incidents Monitoring (U010),Plant 1 US (1710),Service Product (SERV),Periodic Service (P003),Piece (PC),,3200,S,1.00     USD,1
+"RAW233-7, Kanban, Procure to Cost Center (RM233-7)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),ND,3000,S,1.00     USD,1
+Stock Service Part w. Serial No. Profile (SRV_06),Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),ND,3100,S,13.50     USD,1
+Forklift (CM-FL-V00),Plant 1 US (1710),Configurable materials (KMAT),Finished Goods (L004),Piece (PC),PD,7920,S,"4,000.00     USD",1
+Forklift (CM-FL-V01),Plant 1 US (1710),Configurable materials (KMAT),Finished Goods (L004),Piece (PC),PD,7920,S,"4,000.00     USD",1
+Multi-Level Forklifter (CM-MLFL-KM-VXX),Plant 1 US (1710),Configurable materials (KMAT),Finished Goods (L004),Piece (PC),PD,7920,S,"4,000.00     USD",1
+Forklift - Material variant (FG-FL-MV-V00),Plant 1 US (1710),Finished Product (FERT),Finished Goods (L004),Piece (PC),PD,7920,S,"4,000.00     USD",1
+Forklift - Material variant 1 (FG-FL-MV-V01),Plant 1 US (1710),Finished Product (FERT),Finished Goods (L004),Piece (PC),PD,7920,S,"4,000.00     USD",1
+Forklift - Material variant 2 (FG-FL-MV-V02),Plant 1 US (1710),Finished Product (FERT),Finished Goods (L004),Piece (PC),PD,7920,S,"4,000.00     USD",1
+"CP-FG1, Shaft with Rolling Bearings (FG1_CP)",Plant 1 US (1710),Finished Product (FERT),Finished Goods (L004),Piece (PC),PD,7920,S,18.65     USD,1
+"FIN111, MTS-DI, PD (FG111)",Plant 1 US (1710),Finished Product (FERT),Finished Goods (L004),Piece (PC),PD,7920,S,18.65     USD,1
+"FIN111_A,MTS-DI,PD (FG111_A)",Plant 1 US (1710),Finished Product (FERT),Finished Goods (L004),Piece (PC),PD,7920,S,18.65     USD,1
+"FIN111_B, MTS-DI, PD (FG111_B)",Plant 1 US (1710),Finished Product (FERT),Finished Goods (L004),Piece (PC),PD,7920,S,18.65     USD,1
+"FIN111_C, MTS-DI, PD (FG111_C)",Plant 1 US (1710),Finished Product (FERT),Finished Goods (L004),Piece (PC),PD,7920,S,18.65     USD,1
+"FIN126,MTS-DI,PD,SerialNo (FG126)",Plant 1 US (1710),Finished Product (FERT),Finished Goods (L004),Piece (PC),PD,7920,S,18.65     USD,1
+"FIN129,MTS-DI,PD,QM (FG129)",Plant 1 US (1710),Finished Product (FERT),Finished Goods (L004),Piece (PC),PD,7920,S,32.00     USD,1
+"FIN130,MTS-DI,PD,PP (FG130)",Plant 1 US (1710),Finished Product (FERT),Finished Goods (L004),Piece (PC),PD,7920,S,32.00     USD,1
+"FIN228,MTO,PD,Fifo (FG228)",Plant 1 US (1710),Finished Product (FERT),Finished Goods (L004),Piece (PC),PD,7920,S,27.19     USD,1
+"FERT 233, PD, Repetitive Manuf. (FG233)",Plant 1 US (1710),Finished Product (FERT),Finished Goods (L004),Piece (PC),PD,7920,S,21.00     USD,1
+"FIN328,MTO,PD,Batch-Fifo (FG328)",Plant 1 US (1710),Finished Product (FERT),Finished Goods (L004),Piece (PC),PD,7920,S,27.19     USD,1
+"FIN426,MTS-DI,PD,SerialNo,bin-managedPSA (FG426)",Plant 1 US (1710),Finished Product (FERT),Finished Goods (L004),Piece (PC),PD,7920,S,18.65     USD,1
+"FIN626,MTS-DI,PD,SerialNo,bin-managedPSA (FG626)",Plant 1 US (1710),Finished Product (FERT),Finished Goods (L004),Piece (PC),PD,7920,S,18.65     USD,1
+Cruise E-Bike (MZ-FG-26ECR),Plant 1 US (1710),Finished Product (FERT),E Bikes (ZELBK),Piece (PC),PD,7920,S,690.96     USD,1
+Mountain E-Bike (MZ-FG-26EMN),Plant 1 US (1710),Finished Product (FERT),E Bikes (ZELBK),Piece (PC),PD,7920,S,635.85     USD,1
+"""26"""" In-Home Exercise Bike"" (MZ-FG-26XR1)",Plant 1 US (1710),Finished Product (FERT),Exercise Bikes (ZEXBK),Piece (PC),PD,7920,S,"2,080.27     USD",1
+C900 BIKE (MZ-FG-C900),Plant 1 US (1710),Finished Product (FERT),Cruise (ZCRUISE),Piece (PC),PD,7920,S,366.90     USD,1
+C950 BIKE (MZ-FG-C950),Plant 1 US (1710),Finished Product (FERT),Cruise (ZCRUISE),Piece (PC),PD,7920,S,594.15     USD,1
+C990 Bike (MZ-FG-C990),Plant 1 US (1710),Finished Product (FERT),Cruise (ZCRUISE),Piece (PC),PD,7920,S,914.02     USD,1
+E BIKE (MZ-FG-EB01),Plant 1 US (1710),Finished Product (FERT),E Bikes (ZELBK),Piece (PC),PD,7920,S,532.99     USD,1
+E BIKE T (MZ-FG-EB01T),Plant 1 US (1710),Finished Product (FERT),Finished Goods (L004),Piece (PC),PD,7920,S,289.16     USD,1
+E BIKE NON-SERIALISED (MZ-FG-ENS01),Plant 1 US (1710),Finished Product (FERT),Finished Goods (L004),Piece (PC),PD,7920,S,490.28     USD,1
+E BIKE SERIALISED (MZ-FG-ES01),Plant 1 US (1710),Finished Product (FERT),Finished Goods (L004),Piece (PC),PD,7920,S,490.28     USD,1
+M500 BIKE (MZ-FG-M500),Plant 1 US (1710),Finished Product (FERT),Mountain (ZMTN),Piece (PC),PD,7920,S,778.90     USD,1
+M525 BIKE (MZ-FG-M525),Plant 1 US (1710),Finished Product (FERT),Mountain (ZMTN),Piece (PC),PD,7920,S,"1,276.56     USD",1
+M550 BIKE (MZ-FG-M550),Plant 1 US (1710),Finished Product (FERT),Mountain (ZMTN),Piece (PC),PD,7920,S,"3,156.63     USD",1
+R100 BIKE (MZ-FG-R100),Plant 1 US (1710),Finished Product (FERT),Racing (ZRACING),Piece (PC),PD,7920,S,497.84     USD,1
+R200 Bike (MZ-FG-R200),Plant 1 US (1710),Finished Product (FERT),Racing (ZRACING),Piece (PC),PD,7920,S,"3,261.53     USD",1
+R300 Bike (MZ-FG-R300),Plant 1 US (1710),Finished Product (FERT),Racing (ZRACING),Piece (PC),PD,7920,S,"5,358.25     USD",1
+Ball Bearing (MZ-RM-A501),Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,10.00     USD,1
+Aluminium Alloy Levers (MZ-RM-AA01),Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,45.00     USD,1
+Bell (MZ-RM-B001),Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,30.00     USD,1
+Bike Frame Set T (MZ-RM-BF01T),Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,130.00     USD,1
+Kick Stand (MZ-RM-KS01),Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,20.00     USD,1
+Lithium Ion Battery (MZ-RM-LI01),Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,75.00     USD,1
+Motor Casing (MZ-RM-MC01),Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,50.00     USD,1
+Stator (MZ-RM-S001),Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,45.00     USD,1
+Tyre Set (MZ-RM-TS01),Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,80.00     USD,1
+Tyre Set T (MZ-RM-TS01T),Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,80.00     USD,1
+Bike Frame (MZ-SG-BF01),Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,86.23     USD,1
+Brake system (MZ-SG-BS01),Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,71.34     USD,1
+Electric Motor (MZ-SG-EM01),Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,134.38     USD,1
+"CP-RM1, Steel (RM1_CP)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,0.08     USD,1
+"RAW12,PD,RepetitiveManuf. (RM12)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,1.00     USD,1
+"RAW120,PD,QualityManaged (RM120)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,1.25     USD,1
+"RAW122,PD,Batch-Fifo,ProcureImport (RM122)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,0.75     USD,1
+"RAW128,PD,Consignment (RM128)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,1.65     USD,1
+"RAW129,PD (RM129)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,1.80     USD,1
+"RAW13,PD,Subcontracting (RM13)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,0.50     USD,1
+"RAW14,PD,Subcontracting (RM14)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,0.75     USD,1
+"RAW15,PD (RM15)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,0.20     USD,1
+"RAW16,PD (RM16)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,0.25     USD,1
+"RAW17,PD (RM17)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,0.88     USD,1
+"RAW18,PD (RM18)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,0.67     USD,1
+"CP-RM2, Rolling Bearing (RM2_CP)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,1.00     USD,1
+"RAW20,PD (RM20)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,1.30     USD,1
+"RAW233-1, PD, KANBAN Stock Transfer (RM233-1)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,3.00     USD,1
+"RAW233-2,ND,KANBAN,sched. agreements (RM233-2)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,3.00     USD,1
+"RAW233-4,ND,KANBAN,sched. agreements (RM233-4)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,3.00     USD,1
+"RAW233-6, PD, One-Card Kanban (RM233-6)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,3.00     USD,1
+"RAW234,VB,Repetitive Manuf. (RM234)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,3.50     USD,1
+"RAW235,VB (RM235)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,3.50     USD,1
+"RAW27,PD,PackagingBox (RM27)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,0.75     USD,1
+"RAW27_1, PD, Packaging (RM27_1)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,0.75     USD,1
+"CP-RM3, Retaining Ring (RM3_CP)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,0.50     USD,1
+"RAW33,PD,Subcontracting (RM33)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,0.50     USD,1
+"RAW34,PD,Subcontracting (RM34)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,0.75     USD,1
+"CP-RM4, Packaging Material (RM4_CP)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,0.75     USD,1
+"CP-RM7, Label (RM7_CP)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,0.20     USD,1
+"RAW01,JIT,RepetitiveManuf. (RMJIT01)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,1.00     USD,1
+"RAW02,JIT,RepetitiveManuf. (RMJIT02)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,S,1.00     USD,1
+Forklift Base Combustion Model (SF-FL-COMB),Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,"3,100.00     USD",1
+Forklift Counterweight  Plate (SF-FL-CWEIGHT),Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,110.00     USD,1
+Forklift Base Electrical Model (SF-FL-ELECTRIC),Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,"2,900.00     USD",1
+Forklift Large Fork (SF-FL-FORK-L),Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,100.00     USD,1
+Forklift Medium Fork (SF-FL-FORK-M),Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,80.00     USD,1
+Forklift Small Fork (SF-FL-FORK-S),Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,60.00     USD,1
+Seat Type of Fork lifter(HALB) (SF-FL-FORKSEAT-VXX),Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,"3,100.00     USD",1
+Forklift Cushion Tire (SF-FL-TIRE-CUSH),Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,90.00     USD,1
+Forklift Pneumatic Tire (SF-FL-TIRE-PNEU),Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,100.00     USD,1
+"CP-SG1, Shaft (SG1_CP)",Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,0.52     USD,1
+"SEMI124,PD,Subassembly (SG124)",Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,0.52     USD,1
+"SEMI21,PD,RepetitiveManuf. (SG21)",Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,1.50     USD,1
+"SEMI22,PD,Phantom (SG22)",Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,2.70     USD,1
+"SEMI224,MTO,PD,Subassembly (SG224)",Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,0.52     USD,1
+"SEMI23,PD,Subcontracting (SG23)",Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,1.88     USD,1
+"SEMI233,PD,KANBAN, REM (SG233)",Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,4.20     USD,1
+"SEMI234,PD,KANBAN, MTS (SG234)",Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,4.20     USD,1
+"SEMI25,PD,ExternalProcurement (SG25)",Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,5.75     USD,1
+"SEMI26,PD,Subcontracting (SG26)",Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,1.88     USD,1
+"SEMI27,PD,Subcontracting (SG27)",Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,1.88     USD,1
+"SEM29,PD,QM (SG29)",Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,15.00     USD,1
+"SEM30,PD,PP (SG30)",Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,15.00     USD,1
+"SEMI325A,PLM,PD,ExternalProcurement (SG325A)",Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,6.60     USD,1
+"SEMI325B,ECM,PD,ExternalProcurement (SG325B)",Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,5.60     USD,1
+SEMI35 – Assembly Unit 1 (2T) (SG35),Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,27.19     USD,1
+"SEMI424,PD,Subassembly,bin-managed PSA (SG424)",Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,0.52     USD,1
+"SEMI624,PD,Subassembly,bin-managed PSA (SG624)",Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,0.52     USD,1
+"SEMI01,JIT,RepetitiveManuf. (SGJIT01)",Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,1.50     USD,1
+"SEMI02,JIT,RepetitiveManuf. (SGJIT02)",Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,1.50     USD,1
+"SERIALIZED MATERIAL, JIT (SGJIT02-SERIALIZED)",Plant 1 US (1710),Semifinished Product (HALB),Semi-Finished Goods (L003),Piece (PC),PD,7900,S,1.50     USD,1
+JIT Dummy Material (FGJIT01),Plant 1 US (1710),Finished Product (FERT),Finished Goods (L004),Piece (PC),PD,7920,S,50.00     USD,2
+JIT Dummy Material (FGJIT02),Plant 1 US (1710),Finished Product (FERT),Finished Goods (L004),Piece (PC),PD,7920,S,50.00     USD,2
+JIT Dummy Material for EWM Integration (FGJIT03),Plant 1 US (1710),Finished Product (FERT),Finished Goods (L004),Piece (PC),PD,7920,S,50.00     USD,2
+JIT Dummy Packaging Material (PKGJITHU),Plant 1 US (1710),Packaging (VERP),Returnable Packaging (L006),Piece (PC),PD,3050,S,50.00     USD,2
+JIT Dummy Packaging Material (PKGJITSEQ),Plant 1 US (1710),Packaging (VERP),Returnable Packaging (L006),Piece (PC),PD,3050,S,50.00     USD,2
+"RAW124,VB,Consumption,FixedBin (RM124)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),VB,3000,S,0.35     USD,1
+"RAW224,VB,Consumption (RM224)",Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),VB,3000,S,0.35     USD,1
+Bearing (SP001),Plant 1 US (1710),Spare Parts (ERSA),Spare parts (YBPM01),Piece (PC),VB,3040,S,130.00     USD,1
+Coupling (SP002),Plant 1 US (1710),Spare Parts (ERSA),Spare parts (YBPM01),Piece (PC),VB,3040,S,130.50     USD,1
+Shaft (SP003),Plant 1 US (1710),Spare Parts (ERSA),Spare parts (YBPM01),Piece (PC),VB,3040,S,130.50     USD,1
+Gaskets 1mm (SP004),Plant 1 US (1710),Spare Parts (ERSA),Spare parts (YBPM01),Piece (PC),VB,3040,S,130.00     USD,1
+Mechanical Seal (SP005),Plant 1 US (1710),Spare Parts (ERSA),Spare parts (YBPM01),Piece (PC),VB,3040,S,130.50     USD,1
+Spur gear IS651 (SP006),Plant 1 US (1710),Spare Parts (ERSA),Spare parts (YBPM01),Piece (PC),VB,3040,S,130.50     USD,1
+Hardware COGS 001 (HW0001),Plant 1 US (1710),Material general (MAT),Hardware (L008),Piece (PC),,3110,V,240.00     USD,1
+License COGS 001 (LI0001),Plant 1 US (1710),Material general (MAT),Licenses (L007),Piece (PC),,3120,V,120.00     USD,1
+Non-Stock Goods for Consumption (NS0001),Plant 1 US (1710),Non-Stock Material (NLAG),Non-Sto Mat. w. ID (YBMM01),Piece (PC),,YB01,V,1.00     USD,1
+SD BOM Header LUMF (SDBOMLUMFHD),Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),,3100,V,50.00     USD,1
+Trading Good for Consumption (TG0001),Plant 1 US (1710),Material general (MAT),Trading Materials (L001),Piece (PC),,3100,V,1.41     USD,1
+"Empties,ND (RP001)",Plant 1 US (1710),Returnable packaging (LEIH),Returnable Packaging (L006),Piece (PC),ND,3050,V,5.00     USD,1
+Stock Service Part (SRV_05),Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),ND,3100,V,17.21     USD,1
+IFRS SFS Test Material 1 (IF11),Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),PD,3100,V,10.00     USD,1
+IFRS SFS Test Material 2 (IF12),Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),PD,3100,V,"3,069.46     USD",1
+26ECR-BATTERY (MZ-RM-26ECR-1),Plant 1 US (1710),Raw materials (ROH),Battery (ZBATTERY),Piece (PC),PD,3000,V,176.92     USD,1
+26ECR-CONTROL (MZ-RM-26ECR-2),Plant 1 US (1710),Raw materials (ROH),Controller (ZCONTROL),Piece (PC),PD,3000,V,30.30     USD,1
+26ECR-MOTOR (MZ-RM-26ECR-3),Plant 1 US (1710),Raw materials (ROH),Motor (ZMOTOR),Piece (PC),PD,3000,V,60.02     USD,1
+26ECR-SENSOR (MZ-RM-26ECR-4),Plant 1 US (1710),Raw materials (ROH),Sensor (ZSENSOR),Piece (PC),PD,3000,V,16.01     USD,1
+26ECR-THROTTLE (MZ-RM-26ECR-5),Plant 1 US (1710),Raw materials (ROH),Throttle (ZTHROTTLE),Piece (PC),PD,3000,V,20.00     USD,1
+26ECR-ZFRAME (MZ-RM-26ECR-6),Plant 1 US (1710),Raw materials (ROH),Frame (ZFRAME),Piece (PC),PD,3000,V,90.02     USD,1
+26ECR-HANDLE (MZ-RM-26ECR-7),Plant 1 US (1710),Raw materials (ROH),Handle Bars (ZHANDLE),Piece (PC),PD,3000,V,20.15     USD,1
+26ECR-MOTOR (MZ-RM-26ECR-8),Plant 1 US (1710),Raw materials (ROH),Wheels (ZWHEEL),Piece (PC),PD,3000,V,30.04     USD,1
+26ECR-BRAKES (MZ-RM-26ECR-9),Plant 1 US (1710),Raw materials (ROH),Brakes (ZBRAKES),Piece (PC),PD,3000,V,37.20     USD,1
+26EMN-BATTERY (MZ-RM-26EMN-1),Plant 1 US (1710),Raw materials (ROH),Battery (ZBATTERY),Piece (PC),PD,3000,V,175.02     USD,1
+26EMN-CONTROL (MZ-RM-26EMN-2),Plant 1 US (1710),Raw materials (ROH),Controller (ZCONTROL),Piece (PC),PD,3000,V,29.04     USD,1
+26EMN-MOTOR (MZ-RM-26EMN-3),Plant 1 US (1710),Raw materials (ROH),Motor (ZMOTOR),Piece (PC),PD,3000,V,68.38     USD,1
+26EMN-SENSOR (MZ-RM-26EMN-4),Plant 1 US (1710),Raw materials (ROH),Sensor (ZSENSOR),Piece (PC),PD,3000,V,9.68     USD,1
+26EMN-THROTTLE (MZ-RM-26EMN-5),Plant 1 US (1710),Raw materials (ROH),Throttle (ZTHROTTLE),Piece (PC),PD,3000,V,19.83     USD,1
+26EMN-ZFRAME (MZ-RM-26EMN-6),Plant 1 US (1710),Raw materials (ROH),Frame (ZFRAME),Piece (PC),PD,3000,V,58.69     USD,1
+26EMN-HANDLE (MZ-RM-26EMN-7),Plant 1 US (1710),Raw materials (ROH),Handle Bars (ZHANDLE),Piece (PC),PD,3000,V,9.70     USD,1
+26EMN-MOTOR (MZ-RM-26EMN-8),Plant 1 US (1710),Raw materials (ROH),Wheels (ZWHEEL),Piece (PC),PD,3000,V,58.82     USD,1
+26EMN-BRAKES (MZ-RM-26EMN-9),Plant 1 US (1710),Raw materials (ROH),Brakes (ZBRAKES),Piece (PC),PD,3000,V,14.55     USD,1
+26XR1-AC ADAPTER (MZ-RM-26XR1-01),Plant 1 US (1710),Raw materials (ROH),Adapter (ZADAPTER),Piece (PC),PD,3000,V,20.99     USD,1
+26XR1-PEDAL KIT (MZ-RM-26XR1-02),Plant 1 US (1710),Raw materials (ROH),Pedal Kit (ZPEDAL),Piece (PC),PD,3000,V,90.00     USD,1
+26XR1-MOTOR (MZ-RM-26XR1-03),Plant 1 US (1710),Raw materials (ROH),Motor (ZMOTOR),Piece (PC),PD,3000,V,101.12     USD,1
+26XR1-HEARTRATE SENSOR (MZ-RM-26XR1-04),Plant 1 US (1710),Raw materials (ROH),Sensor (ZSENSOR),Piece (PC),PD,3000,V,42.01     USD,1
+26XR1-RESISTANCE SHIFTER (MZ-RM-26XR1-05),Plant 1 US (1710),Raw materials (ROH),Resistance Shifter (ZSHIFTER),Piece (PC),PD,3000,V,12.00     USD,1
+26XR1FRAME (MZ-RM-26XR1-06),Plant 1 US (1710),Raw materials (ROH),Frame (ZFRAME),Piece (PC),PD,3000,V,185.06     USD,1
+26XR1-HANDLE (MZ-RM-26XR1-07),Plant 1 US (1710),Raw materials (ROH),Handle Bars (ZHANDLE),Piece (PC),PD,3000,V,12.05     USD,1
+26XR1-SEAT (MZ-RM-26XR1-08),Plant 1 US (1710),Raw materials (ROH),Seat (ZSEAT),Piece (PC),PD,3000,V,40.07     USD,1
+26XR1-LCD SCREEN (MZ-RM-26XR1-09),Plant 1 US (1710),Raw materials (ROH),LCD Screen (ZSCREEN),Piece (PC),PD,3000,V,378.66     USD,1
+Frame 900 (MZ-RM-C900-01),Plant 1 US (1710),Raw materials (ROH),Frame (ZFRAME),Piece (PC),PD,3000,V,97.55     USD,1
+Handle Bars-900 (MZ-RM-C900-02),Plant 1 US (1710),Raw materials (ROH),Handle Bars (ZHANDLE),Piece (PC),PD,3000,V,5.00     USD,1
+Seat - 900 (MZ-RM-C900-03),Plant 1 US (1710),Raw materials (ROH),Seat (ZSEAT),Piece (PC),PD,3000,V,5.00     USD,1
+Wheels-900 (MZ-RM-C900-04),Plant 1 US (1710),Raw materials (ROH),Wheels (ZWHEEL),Piece (PC),PD,3000,V,8.00     USD,1
+Forks-900 (MZ-RM-C900-05),Plant 1 US (1710),Raw materials (ROH),Forks (ZFORK),Piece (PC),PD,3000,V,17.00     USD,1
+Brakes-900 (MZ-RM-C900-06),Plant 1 US (1710),Raw materials (ROH),Brakes (ZBRAKES),Piece (PC),PD,3000,V,15.00     USD,1
+Drive Train-900 (MZ-RM-C900-07),Plant 1 US (1710),Raw materials (ROH),Drive Train (ZTRAIN),Piece (PC),PD,3000,V,46.35     USD,1
+Frame-950 (MZ-RM-C950-01),Plant 1 US (1710),Raw materials (ROH),Frame (ZFRAME),Piece (PC),PD,3000,V,205.15     USD,1
+Handle Bars-950 (MZ-RM-C950-02),Plant 1 US (1710),Raw materials (ROH),Handle Bars (ZHANDLE),Piece (PC),PD,3000,V,6.97     USD,1
+Seat - 950 (MZ-RM-C950-03),Plant 1 US (1710),Raw materials (ROH),Seat (ZSEAT),Piece (PC),PD,3000,V,6.97     USD,1
+BKC-950 Wheels (MZ-RM-C950-04),Plant 1 US (1710),Raw materials (ROH),Wheels (ZWHEEL),Piece (PC),PD,3000,V,8.90     USD,1
+Forks-950 (MZ-RM-C950-05),Plant 1 US (1710),Raw materials (ROH),Forks (ZFORK),Piece (PC),PD,3000,V,29.40     USD,1
+Brakes-950 (MZ-RM-C950-06),Plant 1 US (1710),Raw materials (ROH),Brakes (ZBRAKES),Piece (PC),PD,3000,V,18.55     USD,1
+Drive Train-950 (MZ-RM-C950-07),Plant 1 US (1710),Raw materials (ROH),Drive Train (ZTRAIN),Piece (PC),PD,3000,V,82.81     USD,1
+BKC-990 Frame (MZ-RM-C990-01),Plant 1 US (1710),Raw materials (ROH),Frame (ZFRAME),Piece (PC),PD,3000,V,352.63     USD,1
+BKC-990 Handle Bars (MZ-RM-C990-02),Plant 1 US (1710),Raw materials (ROH),Handle Bars (ZHANDLE),Piece (PC),PD,3000,V,12.72     USD,1
+BKC-990 Seat (MZ-RM-C990-03),Plant 1 US (1710),Raw materials (ROH),Seat (ZSEAT),Piece (PC),PD,3000,V,12.00     USD,1
+BKC-990 Wheels (MZ-RM-C990-04),Plant 1 US (1710),Raw materials (ROH),Wheels (ZWHEEL),Piece (PC),PD,3000,V,15.00     USD,1
+BKC-990 Forks (MZ-RM-C990-05),Plant 1 US (1710),Raw materials (ROH),Forks (ZFORK),Piece (PC),PD,3000,V,48.00     USD,1
+BKC-990 Brakes (MZ-RM-C990-06),Plant 1 US (1710),Raw materials (ROH),Brakes (ZBRAKES),Piece (PC),PD,3000,V,30.00     USD,1
+BKC-990 Drive Train (MZ-RM-C990-09),Plant 1 US (1710),Raw materials (ROH),Drive Train (ZTRAIN),Piece (PC),PD,3000,V,122.00     USD,1
+Frame-500 (MZ-RM-M500-01),Plant 1 US (1710),Raw materials (ROH),Frame (ZFRAME),Piece (PC),PD,3000,V,120.01     USD,1
+Handle Bars-500 (MZ-RM-M500-02),Plant 1 US (1710),Raw materials (ROH),Handle Bars (ZHANDLE),Piece (PC),PD,3000,V,10.00     USD,1
+Seat - 500 (MZ-RM-M500-03),Plant 1 US (1710),Raw materials (ROH),Seat (ZSEAT),Piece (PC),PD,3000,V,10.78     USD,1
+Wheels-500 (MZ-RM-M500-04),Plant 1 US (1710),Raw materials (ROH),Wheels (ZWHEEL),Piece (PC),PD,3000,V,18.00     USD,1
+Forks-500 (MZ-RM-M500-05),Plant 1 US (1710),Raw materials (ROH),Forks (ZFORK),Piece (PC),PD,3000,V,40.18     USD,1
+Brakes-500 (MZ-RM-M500-06),Plant 1 US (1710),Raw materials (ROH),Brakes (ZBRAKES),Piece (PC),PD,3000,V,39.38     USD,1
+Derailleur Gears-500 (MZ-RM-M500-07),Plant 1 US (1710),Raw materials (ROH),Derailleur Gears (ZGEARS),Piece (PC),PD,3000,V,60.00     USD,1
+Pedal Kit-500 (MZ-RM-M500-08),Plant 1 US (1710),Raw materials (ROH),Pedal Kit (ZPEDAL),Piece (PC),PD,3000,V,32.87     USD,1
+Drive Train-500 (MZ-RM-M500-09),Plant 1 US (1710),Raw materials (ROH),Drive Train (ZTRAIN),Piece (PC),PD,3000,V,129.99     USD,1
+Shock Kit-500 (MZ-RM-M500-10),Plant 1 US (1710),Raw materials (ROH),Shock Kit (ZSHOCK),Piece (PC),PD,3000,V,30.00     USD,1
+BKR-525 Frame (MZ-RM-M525-01),Plant 1 US (1710),Raw materials (ROH),Frame (ZFRAME),Piece (PC),PD,3000,V,209.84     USD,1
+BKM-525 Handle Bars (MZ-RM-M525-02),Plant 1 US (1710),Raw materials (ROH),Handle Bars (ZHANDLE),Piece (PC),PD,3000,V,14.94     USD,1
+BKM-525 Seat (MZ-RM-M525-03),Plant 1 US (1710),Raw materials (ROH),Seat (ZSEAT),Piece (PC),PD,3000,V,14.94     USD,1
+BKM-525 Wheels (MZ-RM-M525-04),Plant 1 US (1710),Raw materials (ROH),Wheels (ZWHEEL),Piece (PC),PD,3000,V,18.92     USD,1
+BKM-525 Forks (MZ-RM-M525-05),Plant 1 US (1710),Raw materials (ROH),Forks (ZFORK),Piece (PC),PD,3000,V,59.76     USD,1
+BKM-525 Brakes (MZ-RM-M525-06),Plant 1 US (1710),Raw materials (ROH),Brakes (ZBRAKES),Piece (PC),PD,3000,V,37.80     USD,1
+BKM-525 Derailleur Gears (MZ-RM-M525-07),Plant 1 US (1710),Raw materials (ROH),Derailleur Gears (ZGEARS),Piece (PC),PD,3000,V,111.95     USD,1
+BKM-525 Pedal Kit (MZ-RM-M525-08),Plant 1 US (1710),Raw materials (ROH),Pedal Kit (ZPEDAL),Piece (PC),PD,3000,V,44.82     USD,1
+BKM-525 Drive Train (MZ-RM-M525-09),Plant 1 US (1710),Raw materials (ROH),Drive Train (ZTRAIN),Piece (PC),PD,3000,V,172.26     USD,1
+BKM-525 Shock Kit (MZ-RM-M525-10),Plant 1 US (1710),Raw materials (ROH),Shock Kit (ZSHOCK),Piece (PC),PD,3000,V,37.80     USD,1
+Frame-550 (MZ-RM-M550-01),Plant 1 US (1710),Raw materials (ROH),Frame (ZFRAME),Piece (PC),PD,3000,V,667.57     USD,1
+Handle Bars-550 (MZ-RM-M550-02),Plant 1 US (1710),Raw materials (ROH),Handle Bars (ZHANDLE),Piece (PC),PD,3000,V,39.99     USD,1
+Seat - 550 (MZ-RM-M550-03),Plant 1 US (1710),Raw materials (ROH),Seat (ZSEAT),Piece (PC),PD,3000,V,39.99     USD,1
+Wheels-550 (MZ-RM-M550-04),Plant 1 US (1710),Raw materials (ROH),Wheels (ZWHEEL),Piece (PC),PD,3000,V,49.98     USD,1
+Forks-550 (MZ-RM-M550-05),Plant 1 US (1710),Raw materials (ROH),Forks (ZFORK),Piece (PC),PD,3000,V,154.98     USD,1
+Brakes-550 (MZ-RM-M550-06),Plant 1 US (1710),Raw materials (ROH),Brakes (ZBRAKES),Piece (PC),PD,3000,V,98.97     USD,1
+Derailleur Gears-550 (MZ-RM-M550-07),Plant 1 US (1710),Raw materials (ROH),Derailleur Gears (ZGEARS),Piece (PC),PD,3000,V,230.00     USD,1
+Pedal Kit-550 (MZ-RM-M550-08),Plant 1 US (1710),Raw materials (ROH),Pedal Kit (ZPEDAL),Piece (PC),PD,3000,V,119.52     USD,1
+Drive Train-550 (MZ-RM-M550-09),Plant 1 US (1710),Raw materials (ROH),Drive Train (ZTRAIN),Piece (PC),PD,3000,V,389.94     USD,1
+Shock Kit-550 (MZ-RM-M550-10),Plant 1 US (1710),Raw materials (ROH),Shock Kit (ZSHOCK),Piece (PC),PD,3000,V,100.03     USD,1
+BKR-100 Frame (MZ-RM-R100-01),Plant 1 US (1710),Raw materials (ROH),Frame (ZFRAME),Piece (PC),PD,3000,V,151.17     USD,1
+BKR-100 Handle Bars (MZ-RM-R100-02),Plant 1 US (1710),Raw materials (ROH),Handle Bars (ZHANDLE),Piece (PC),PD,3000,V,3.98     USD,1
+BKR-100 Seat (MZ-RM-R100-04),Plant 1 US (1710),Raw materials (ROH),Seat (ZSEAT),Piece (PC),PD,3000,V,3.00     USD,1
+BKR-100 Wheels (MZ-RM-R100-05),Plant 1 US (1710),Raw materials (ROH),Wheels (ZWHEEL),Piece (PC),PD,3000,V,5.99     USD,1
+BKR-100 Forks (MZ-RM-R100-06),Plant 1 US (1710),Raw materials (ROH),Forks (ZFORK),Piece (PC),PD,3000,V,20.98     USD,1
+BKR-100 Brakes (MZ-RM-R100-07),Plant 1 US (1710),Raw materials (ROH),Brakes (ZBRAKES),Piece (PC),PD,3000,V,11.99     USD,1
+BKR-100 Derailleur Gears (MZ-RM-R100-08),Plant 1 US (1710),Raw materials (ROH),Derailleur Gears (ZGEARS),Piece (PC),PD,3000,V,32.86     USD,1
+BKR-100 Pedal Kit (MZ-RM-R100-09),Plant 1 US (1710),Raw materials (ROH),Pedal Kit (ZPEDAL),Piece (PC),PD,3000,V,18.06     USD,1
+BKR-100 Drive Train (MZ-RM-R100-10),Plant 1 US (1710),Raw materials (ROH),Drive Train (ZTRAIN),Piece (PC),PD,3000,V,44.96     USD,1
+BKR-200 Frame (MZ-RM-R200-01),Plant 1 US (1710),Raw materials (ROH),Frame (ZFRAME),Piece (PC),PD,3000,V,717.41     USD,1
+BKR-200 Handle Bars (MZ-RM-R200-02),Plant 1 US (1710),Raw materials (ROH),Handle Bars (ZHANDLE),Piece (PC),PD,3000,V,136.32     USD,1
+BKR-200 Seat (MZ-RM-R200-03),Plant 1 US (1710),Raw materials (ROH),Seat (ZSEAT),Piece (PC),PD,3000,V,20.63     USD,1
+BKR-200 Wheels (MZ-RM-R200-04),Plant 1 US (1710),Raw materials (ROH),Wheels (ZWHEEL),Piece (PC),PD,3000,V,61.89     USD,1
+BKR-200 Forks (MZ-RM-R200-05),Plant 1 US (1710),Raw materials (ROH),Forks (ZFORK),Piece (PC),PD,3000,V,165.03     USD,1
+BKR-200 Brakes (MZ-RM-R200-06),Plant 1 US (1710),Raw materials (ROH),Brakes (ZBRAKES),Piece (PC),PD,3000,V,109.97     USD,1
+BKR-200 Derailleur Gears (MZ-RM-R200-07),Plant 1 US (1710),Raw materials (ROH),Derailleur Gears (ZGEARS),Piece (PC),PD,3000,V,288.80     USD,1
+BKR-200 Pedal Kit (MZ-RM-R200-08),Plant 1 US (1710),Raw materials (ROH),Pedal Kit (ZPEDAL),Piece (PC),PD,3000,V,185.66     USD,1
+BKR-200 Drive Train (MZ-RM-R200-09),Plant 1 US (1710),Raw materials (ROH),Drive Train (ZTRAIN),Piece (PC),PD,3000,V,200.74     USD,1
+BKR-300 Frame (MZ-RM-R300-01),Plant 1 US (1710),Raw materials (ROH),Frame (ZFRAME),Piece (PC),PD,3000,V,"1,264.56     USD",1
+BKR-300 Handle Bars (MZ-RM-R300-02),Plant 1 US (1710),Raw materials (ROH),Handle Bars (ZHANDLE),Piece (PC),PD,3000,V,89.82     USD,1
+BKR-300 Seat (MZ-RM-R300-03),Plant 1 US (1710),Raw materials (ROH),Seat (ZSEAT),Piece (PC),PD,3000,V,89.81     USD,1
+BKR-300 Wheels (MZ-RM-R300-04),Plant 1 US (1710),Raw materials (ROH),Wheels (ZWHEEL),Piece (PC),PD,3000,V,81.48     USD,1
+BKR-300 Forks (MZ-RM-R300-05),Plant 1 US (1710),Raw materials (ROH),Forks (ZFORK),Piece (PC),PD,3000,V,302.42     USD,1
+BKR-300 Brakes (MZ-RM-R300-06),Plant 1 US (1710),Raw materials (ROH),Brakes (ZBRAKES),Piece (PC),PD,3000,V,201.17     USD,1
+BKR-300 Derailleur Gears (MZ-RM-R300-07),Plant 1 US (1710),Raw materials (ROH),Derailleur Gears (ZGEARS),Piece (PC),PD,3000,V,406.25     USD,1
+BKR-300 Pedal Kit (MZ-RM-R300-08),Plant 1 US (1710),Raw materials (ROH),Pedal Kit (ZPEDAL),Piece (PC),PD,3000,V,203.12     USD,1
+BKR-300 Drive Train (MZ-RM-R300-09),Plant 1 US (1710),Raw materials (ROH),Drive Train (ZTRAIN),Piece (PC),PD,3000,V,803.42     USD,1
+Y120 Bike (MZ-TG-Y120),Plant 1 US (1710),Trading Goods (HAWA),Youth (ZYOUTH),Piece (PC),PD,3100,V,40.88     USD,1
+Y200 Bike (MZ-TG-Y200),Plant 1 US (1710),Trading Goods (HAWA),Youth (ZYOUTH),Piece (PC),PD,3100,V,68.04     USD,1
+Y240 Bike (MZ-TG-Y240),Plant 1 US (1710),Trading Goods (HAWA),Youth (ZYOUTH),Piece (PC),PD,3100,V,86.65     USD,1
+Private Cloud Server (PC_PROD_1),Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),PD,3100,V,"7,156.05     USD",1
+QM Regular (QM001),Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),PD,3100,V,222.78     USD,1
+QM Q-Info-Record (QM002),Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),PD,3100,V,30.00     USD,1
+QM Dynamic Modification (QM003),Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),PD,3100,V,40.00     USD,1
+QM Sampling Scheme (QM004),Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),PD,3100,V,41.08     USD,1
+QM Quality Certificate in Procurement (QM005),Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),PD,3100,V,32.00     USD,1
+RAW35 – Assembly Component 1 (2T) (RM35),Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,V,0.50     USD,1
+RAW36 – Assembly Component 2 (2T) (RM36),Plant 1 US (1710),Raw materials (ROH),Raw Materials (L002),Piece (PC),PD,3000,V,0.50     USD,1
+SD BOM Header ERLA (SDBOMERLAHD),Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),PD,3100,V,50.00     USD,1
+SD BOM ERLA Item01 (SDBOMERLAIT01),Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),PD,3100,V,13.50     USD,1
+SD BOM ERLA Item02 (SDBOMERLAIT02),Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),PD,3100,V,13.50     USD,1
+SD BOM LUMF Item01 (SDBOMLUMFIT01),Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),PD,3100,V,13.50     USD,1
+SD BOM LUMF Item02 (SDBOMLUMFIT02),Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),PD,3100,V,13.50     USD,1
+CityFit20 (TG0011),Plant 1 US (1710),Material general (MAT),Trading Materials (L001),Piece (PC),PD,3100,V,30.00     USD,1
+"Trad. Good 0012,Reord. Pt.,Regular Proc. (TG0012)",Plant 1 US (1710),Material general (MAT),Trading Materials (L001),Piece (PC),PD,3100,V,37.17     USD,1
+"Trading Good 0013,PD,Regular Proc. (TG0013)",Plant 1 US (1710),Material general (MAT),Trading Materials (L001),Piece (PC),PD,3100,V,21.43     USD,1
+"Trading Good 0014,PD,Regular Proc. (TG0014)",Plant 1 US (1710),Material general (MAT),Trading Materials (L001),Piece (PC),PD,3100,V,35.00     USD,1
+"Trading Good 0099,PD,Regular Proc. (TG0099)",Plant 1 US (1710),Material general (MAT),Trading Materials (L001),Piece (PC),PD,3100,V,20.00     USD,1
+"Trad.Good 10,PD,Third Party (TG10)",Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),PD,3100,V,"3,149,958.41     USD",1
+"Trad.Good 11,PD,Reg.Trading (TG11)",Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),PD,3100,V,13.22     USD,1
+Combination wrench 21mm (TG11_PH_CO21),Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),PD,3100,V,6.00     USD,1
+Combination wrench 30mm (TG11_PH_CO30),Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),PD,3100,V,10.00     USD,1
+Crowfoot wrench 12mm (TG11_PH_CW12),Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),PD,3100,V,5.00     USD,1
+Crowfoot wrench 14mm (TG11_PH_CW14),Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),PD,3100,V,50.00     USD,1
+gaspipe pliers 200mm (TG11_PH_GP200),Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),PD,3100,V,22.00     USD,1
+gaspipe pliers 300mm (TG11_PH_GP300),Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),PD,3100,V,27.00     USD,1
+Pincer pliers (Kneifzange) (TG11_PH_PP),Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),PD,3100,V,8.72     USD,1
+wire cutter (Drahtschere) (TG11_PH_WC),Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),PD,3100,V,6.83     USD,1
+"Trad.Good 14,PD,Bought-In,H14 (TG14)",Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),PD,3100,V,13.54     USD,1
+BKR-800 Frame (Aluminum) (TR-RM-R800-01),Plant 1 US (1710),Raw materials (ROH),Frame Trial (ZTRFRAME),Piece (PC),PD,3000,V,140.25     USD,1
+Y300_T Bike (TR-TG-Y300),Plant 1 US (1710),Trading Goods (HAWA),Youth (ZYOUTH),Piece (PC),PD,3100,V,993.69     USD,1
+"Operating Supply 01, Purchasing (HB01)",Plant 1 US (1710),Operating supplies (HIBE),Raw Materials (L002),Piece (PC),VB,3030,V,719.29     USD,1
+"Trading Goods 0016,Reg.Proc., Serial No. (TG0016)",Plant 1 US (1710),Material general (MAT),Trading Materials (L001),Piece (PC),VB,3100,V,30.00     USD,1
+"Trading Goods 0018,Reg.Proc., Serial No. (TG0018)",Plant 1 US (1710),Material general (MAT),Trading Materials (L001),Piece (PC),VB,3100,V,30.00     USD,1
+LED Light Set PRO (TG12),Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),VB,3100,V,13.73     USD,1
+"Trad.Good 13,Reorder Point,Thrd Party (TG13)",Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),VB,3100,V,130.00     USD,1
+"Trad.Good 20,Reorder Point,SerialNo (TG20)",Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),VB,3100,V,19.44     USD,1
+"Trad.Good 21,Reorder Point,Batch-FIFO (TG21)",Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),VB,3100,V,15.15     USD,1
+"Trad.Good 22,Reorder Point,Batch-ExpD (TG22)",Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),VB,3100,V,13.50     USD,1
+"Trad.Good 23,Reorder Point,Batch,Serial (TG23)",Plant 1 US (1710),Trading Goods (HAWA),Trading Materials (L001),Piece (PC),VB,3100,V,23.00     USD,1
+Installation Service (PC_SRV_1),Plant 1 US (1710),Service Product (SERV),Services (P001),Hours (HR),,3200,S,0.00     USD,1
+Service (SRV_01),Plant 1 US (1710),Service Product (SERV),Services (P001),Hours (HR),,3200,S,0.00     USD,1
